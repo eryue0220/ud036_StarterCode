@@ -4,6 +4,11 @@
 import media
 import fresh_tomatoes
 
+# define the movie which will show in the html page. The movie content consists
+# of its title, storyline, poster image and youtube url. If you call this file,
+# it will produce a html file in your current work directory, then will open
+# in it in the browser.
+
 toy_story = media.Movie(
     'Toy Story',
     'A story of a boy and his toys that come to life',

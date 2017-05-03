@@ -21,7 +21,7 @@ Now you should check your current work directory path is in the
 directory. And then, run the code:
 
 ```bash
-python entertainment.py
+python entertainment_content.py
 ```
 
 After that, your browser will be called and open a page as follow:
